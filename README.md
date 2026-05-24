@@ -1,20 +1,20 @@
-### Hi, I'm Pedro Boa Hora! 👋
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PEDRO%20BOA%20HORA&fontSize=80" alt="Header" />
+</div>
 Software Engineer primarily focused on backend development, building high-availability systems, microservices, and robust data pipelines for the financial and payment acquiring sectors.
 
 ## 🚀 About me
 
 - 🎓 B.S. Computer Science Student at the Centro de Informática (**CIn - UFPE**).
+- 📜 Technical Degree in Systems Development from **ETE Porto Digital**.
 - 💼 Solid background developing scalable backend solutions for payment ecosystems (PIX flows, settlement, cashback) using **Scala** and **Kotlin**.
 - ⚙️ Skilled in corporate process automation, microservices architecture, and integrating SQL databases with cloud environments.
 - 🌱 Constantly exploring new ways to optimize data processing and backend performance.
 
 ## 📊 GitHub Stats
 
-<div>
-  <a href="https://github.com/boahorapedro">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boahorapedro&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=boahorapedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=boahorapedro&theme=dark" alt="GitHub Streak" /><img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=boahorapedro&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ## 🛠️ Tech Stack
@@ -54,5 +54,3 @@ Software Engineer primarily focused on backend development, building high-availa
   <a href="https://www.linkedin.com/in/pedro-boa-hora-8673b5191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-
-![Snake animation](https://github.com/boahorapedro/boahorapedro/blob/output/github-contribution-grid-snake.svg)
